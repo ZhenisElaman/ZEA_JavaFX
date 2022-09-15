@@ -1,1 +1,2 @@
-# ZEA_JavaFX
+# JavaFX - 1st Lab
+![Screenshot](Screenshot.png)
